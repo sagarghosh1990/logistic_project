@@ -1,0 +1,15 @@
+{
+	"name": "projectlogistic-adf-2026",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15c7ee94-f5ed-47db-97e6-f6be329d2d7b",
+		"tenantId": "56bab4f7-75a4-417c-bb64-33a286b6edb8"
+	}
+}
